@@ -9,4 +9,4 @@ function addNumbers() {
 	return result;
 }
 
-module.exports = addNumbers;
+export default addNumbers;
